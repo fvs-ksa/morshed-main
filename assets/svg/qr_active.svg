@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57" height="32" viewBox="0 0 57 32">
+  <g id="Group_204397" data-name="Group 204397" transform="translate(-19210.76 -2558.5)">
+    <rect id="Rectangle_29873" data-name="Rectangle 29873" width="57" height="32" rx="16" transform="translate(19210.76 2558.5)" fill="#d3f5f6"/>
+    <g id="code" transform="translate(19227.232 2562.974)">
+      <g id="Group_203548" data-name="Group 203548">
+        <path id="Path_198254" data-name="Path 198254" d="M2,2h8.632v8.632H2ZM4,4V8.632H8.632V4ZM2,12.421h8.632v8.632H2Zm2,2v4.632H8.632V14.42ZM12.421,2h8.632v8.632H12.42Zm2,2V8.632h4.632V4Z" fill="#25cad2" stroke="#e3e3e3" stroke-width="0.5" fill-rule="evenodd"/>
+        <path id="Path_198255" data-name="Path 198255" d="M7.263,7.316H5.368v-2H7.263Zm0,10.421H5.368v-2H7.263ZM21,21.053H19.1v-2H21Zm-3.316,0H15.79v-2h1.895Zm0-13.737H15.79v-2h1.895Z" fill="#25cad2" stroke="#e3e3e3" stroke-width="0.5" fill-rule="evenodd"/>
+        <path id="Path_198256" data-name="Path 198256" d="M12.421,12.421h5.316v2.842h1.316v-2.79h2v4.79H15.737V14.421H14.42V21h-2Z" fill="#25cad2" stroke="#e3e3e3" stroke-width="0.5" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95475798723",
+    "project_id": "murshid-5cf3e",
+    "storage_bucket": "murshid-5cf3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95475798723:android:832891c6ec47a92e158876",
+        "android_client_info": {
+          "package_name": "com.morshed.fvs.morshed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95475798723-jr7g3bpvqhv79orvd23p3vqvbh1s3sei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoQeyAoi8Wlx2MSmeYh-5KhjBloj8zsCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95475798723-jr7g3bpvqhv79orvd23p3vqvbh1s3sei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

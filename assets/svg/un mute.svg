@@ -1,0 +1,11 @@
+<svg id="un_mute" data-name="un mute" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.703" height="25.703" viewBox="0 0 25.703 25.703">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_198304" data-name="Path 198304" d="M0,0H25.7V25.7H0Z" fill="#a8a8a8"/>
+    </clipPath>
+  </defs>
+  <g id="Group_203585" data-name="Group 203585" clip-path="url(#clip-path)">
+    <path id="Path_198302" data-name="Path 198302" d="M7,5.855a5.355,5.355,0,1,1,10.709,0v5.89A5.355,5.355,0,1,1,7,11.745Z" transform="translate(0.497 0.035)" fill="#a8a8a8"/>
+    <path id="Path_198303" data-name="Path 198303" d="M12.6,18.355h-.013a7.5,7.5,0,0,1-6.945-4.685,1.071,1.071,0,1,0-1.986.8,9.647,9.647,0,0,0,7.866,5.965v3.272a1.071,1.071,0,0,0,2.142,0V20.438a9.647,9.647,0,0,0,7.867-5.965,1.071,1.071,0,1,0-1.986-.8A7.5,7.5,0,0,1,12.6,18.355Z" transform="translate(0.254 0.922)" fill="#a8a8a8"/>
+  </g>
+</svg>
